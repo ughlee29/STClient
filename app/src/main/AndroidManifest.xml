@@ -6,9 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="STClient"
+        android:label="LoreHearth"
         android:supportsRtl="true"
-        android:theme="@style/Theme.STClient">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">

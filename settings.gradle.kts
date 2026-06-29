@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "STClient"
+rootProject.name = "LoreHearth"
 include(":app")
